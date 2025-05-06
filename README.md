@@ -1,6 +1,6 @@
 # ✨CelestialShark✨
 Hi!  
-I'm Lizzie! (they/she)
+I'm Lizzie! (she/they)
 
 ## Languages
 I have some experience programming in Java, Ruby, and C#  
