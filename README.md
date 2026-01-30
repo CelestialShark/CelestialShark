@@ -2,8 +2,14 @@
 Hi!  
 I'm Lizzie! (she/they)
 
-## Languages
-I have some experience programming in Java, Ruby, and C#  
+## Favorite Languages
+- C# (Most experience)
+- Rust (Still learning)
+- Python
+- Java
+  
+I also have some experience programming in Ruby (with Sinatra).  
+
 <!--
 **CelestialShark/CelestialShark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
